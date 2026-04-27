@@ -1,17 +1,17 @@
-﻿using System;
+﻿//**************************************************************
+// Programmer:       Sterling - CIT301495
+// Date:             27/04/2026
+// Software:         Visual Studio 2022
+// Platform:         Windows 11
+// Purpose:          Main form and menu for Assignment 2 tasks A-D
+// Acknowledgements: The in class code based on the weekly sessions.
+//**************************************************************
+
+using System;
 using System.Windows.Forms;
 
 namespace Assignment_2
 {
-    //**************************************************************
-    // Programmer:       Sterling - CIT301495
-    // Date:             27/04/2026
-    // Software:         Visual Studio 2022
-    // Platform:         Windows 11
-    // Purpose:          Main form and menu for Assignment 2 tasks A-D
-    // Acknowledgements: The in class code based on the weekly sessions.
-    //**************************************************************
-
     public partial class MainForm : Form
     {
         public MainForm()

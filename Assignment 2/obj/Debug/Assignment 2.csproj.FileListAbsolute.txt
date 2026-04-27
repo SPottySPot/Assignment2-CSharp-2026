@@ -13,3 +13,18 @@ C:\School\CIT\2026\C#\Assignment 2\Assignment 2\obj\Debug\Assignment_2.TaskAForm
 C:\School\CIT\2026\C#\Assignment 2\Assignment 2\obj\Debug\Assignment_2.TaskBForm.resources
 C:\School\CIT\2026\C#\Assignment 2\Assignment 2\obj\Debug\Assignment_2.TaskCForm.resources
 C:\School\CIT\2026\C#\Assignment 2\Assignment 2\obj\Debug\Assignment_2.TaskDForm.resources
+C:\School\CIT\2026\C#\Assignment 2\Assignment2-CSharp-2026\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\School\CIT\2026\C#\Assignment 2\Assignment2-CSharp-2026\Assignment 2\bin\Debug\Assignment 2.exe
+C:\School\CIT\2026\C#\Assignment 2\Assignment2-CSharp-2026\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\School\CIT\2026\C#\Assignment 2\Assignment2-CSharp-2026\Assignment 2\obj\Debug\Assignment 2.csproj.AssemblyReference.cache
+C:\School\CIT\2026\C#\Assignment 2\Assignment2-CSharp-2026\Assignment 2\obj\Debug\Assignment 2.exe.config
+C:\School\CIT\2026\C#\Assignment 2\Assignment2-CSharp-2026\Assignment 2\obj\Debug\Assignment_2.MainForm.resources
+C:\School\CIT\2026\C#\Assignment 2\Assignment2-CSharp-2026\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\School\CIT\2026\C#\Assignment 2\Assignment2-CSharp-2026\Assignment 2\obj\Debug\Assignment_2.TaskAForm.resources
+C:\School\CIT\2026\C#\Assignment 2\Assignment2-CSharp-2026\Assignment 2\obj\Debug\Assignment_2.TaskBForm.resources
+C:\School\CIT\2026\C#\Assignment 2\Assignment2-CSharp-2026\Assignment 2\obj\Debug\Assignment_2.TaskCForm.resources
+C:\School\CIT\2026\C#\Assignment 2\Assignment2-CSharp-2026\Assignment 2\obj\Debug\Assignment_2.TaskDForm.resources
+C:\School\CIT\2026\C#\Assignment 2\Assignment2-CSharp-2026\Assignment 2\obj\Debug\Assignment 2.csproj.GenerateResource.cache
+C:\School\CIT\2026\C#\Assignment 2\Assignment2-CSharp-2026\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+C:\School\CIT\2026\C#\Assignment 2\Assignment2-CSharp-2026\Assignment 2\obj\Debug\Assignment 2.exe
+C:\School\CIT\2026\C#\Assignment 2\Assignment2-CSharp-2026\Assignment 2\obj\Debug\Assignment 2.pdb
