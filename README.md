@@ -1,4 +1,4 @@
-<img width="746" height="488" alt="image" src="https://github.com/user-attachments/assets/336923a3-b10c-45ef-95ae-02d27804f340" /># Assignment2-CSharp-2026
+# Assignment2-CSharp-2026
 My completion for assignment 2 on my C# assignment and submitting it to github is part of the marking criteria.
 
 The program opens to the main menu screen
